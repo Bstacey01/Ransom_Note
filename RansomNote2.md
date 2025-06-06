@@ -1,6 +1,6 @@
 # Second Ransom Note 
 
-**all** _ your _ **base** are **belong** to **us**
+**all** _your_ **base** are **belong** to **us**
 
 # Learning-Github
 ## sub heading
